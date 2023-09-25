@@ -19,3 +19,5 @@ stage命令用于将当前文件重置为上一个状态\
 合并dev和beta版本，两个都删除。
 
 write beta second time
+
+write beta thired time
