@@ -28,3 +28,6 @@ write beta thired time
 waiting...
 I have come back.
 add a line
+
+
+2023年10月19日部署linux的Git并上传githuub
